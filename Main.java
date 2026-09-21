@@ -7,7 +7,7 @@
             if(money>0)
             {
 
-                System.out.println(money + " is credited");
+                System.out.println(money + " is credited to bank");
             }
         }
        
